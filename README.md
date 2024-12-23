@@ -1,6 +1,9 @@
 # JavaClicker
 My own java clicker game (Im a java beginner at java)
 
+# What you need
+Java runtime 21/Java jdk 21
+
 # Running
 Open your terminal and paste:
 
