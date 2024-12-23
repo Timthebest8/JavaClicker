@@ -1,5 +1,5 @@
 # JavaClicker
-My own java clicker game (Im a java beginner at java)
+My own java clicker game
 
 # What you need
 Java runtime 21/Java jdk 21
